@@ -1,5 +1,3 @@
-Here's a draft GitHub README for the provided code:
-
 # SimplySummary Discord Bot
 
 SimplySummary is a Discord bot that automatically summarizes chat conversations in specified channels. It uses natural language processing to generate concise summaries of chat logs, making it easier for users to catch up on discussions they may have missed.
